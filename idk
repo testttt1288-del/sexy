@@ -1,4 +1,4 @@
--- WORKING BOMBER PLANE v.2
+
 return {[1]={surface={Top="Weld";Front="Smooth";Bottom="Weld";Right="Smooth";Left="Smooth";Back="Smooth";};
 reflectance=0;color={[1]=39.00000147521496;[2]=70.00000342726707;[3]=45.00000111758709;};
 anchored=false;cancollide=true;transparency=0;texture="Plastic";position={[1]=22.311403274536133;[2]=10.108781814575195;[3]=-86.45315551757812;};
